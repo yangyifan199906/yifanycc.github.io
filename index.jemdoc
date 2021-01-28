@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yifan Yang
+
+~~~
+{}{img_left}{yifan.jpeg}{alt text}{131}{160}{index.html}
+Undergraduate Student,\n School of Electronic Information and Communications, \n Huazhong University of Science and technology\n
+
+E-post: /yifanycc/ \[@\] gmail \[DOT\] com
+~~~
+
+== About me
+I'm currently pursuing my undergraduate degree in Huazhong University of Science and Technology. I have joined Dr. Pan Zhou's Lab science 2018 and recently work on online learning and Bandits algorithm. I'm actively searching for PhD position in Computer Science and Electric Engineering.
+
+== Research
+My research interests include 
+- Online Convex Optimization  
+- Bandits Algorithms
+
+
+=== Recent Publications 
+
+Yifan Yang, Jie Xu, Zichuan Xu, Pan Zhou and Tie Qiu ``Quantile context-aware social IoT service big data recommendation with D2D communication”, IEEE Internet of Things Journal, vol. 7, no. 6, pp. 5533-5548.
